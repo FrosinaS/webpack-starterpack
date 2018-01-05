@@ -37,14 +37,6 @@ module.exports = {
         webpackCleanup,
         ExtractTextPlugin
     ],
-    devServer: {
-        contentBase: path.join(__dirname, 'public'),
-        compress: true,
-        port: 8080,
-        clientLogLevel: "none",
-        historyApiFallback: true,
-        watchContentBase: true
-    },
     module: {
         rules: [
             {
