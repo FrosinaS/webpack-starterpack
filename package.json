@@ -1,0 +1,31 @@
+{
+  "name": "Webpack starterpack",
+  "version": "1.0.0",
+  "description": "Simple webpack starterpack for ES6 and SASS together with fonts and images",
+  "main": "",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Frosina Stamatoska",
+  "license": "",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.36",
+    "@babel/preset-env": "^7.0.0-beta.36",
+    "babel-loader": "^8.0.0-beta.0",
+    "browser-sync": "^2.23.2",
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.6",
+    "hot-module-replacement": "^3.0.0",
+    "html-loader": "^0.5.4",
+    "image-webpack-loader": "^3.4.2",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6",
+    "static-server": "^2.0.0",
+    "style-loader": "^0.19.1",
+    "uglify-js": "^3.3.4",
+    "url-loader": "^0.6.2",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {}
+}
