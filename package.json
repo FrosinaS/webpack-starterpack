@@ -28,5 +28,6 @@
     "webpack": "^3.10.0",
     "webpack-cleanup-plugin": "^0.5.1"
   },
-  "dependencies": {}
+  "dependencies": {
+  }
 }
